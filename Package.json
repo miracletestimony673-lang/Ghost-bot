@@ -1,7 +1,7 @@
 {
-  "name": "sypher-bot",
+  "name": "ghost-bot",
   "version": "1.0.0",
-  "description": "My WhatsApp Bot",
+  "description": "Ghost Bot - WhatsApp Bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
